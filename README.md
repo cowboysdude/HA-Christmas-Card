@@ -2,7 +2,7 @@
 
 An animated Christmas and New Year's countdown card for Home Assistant. It uses only the built-in Markdown card, so you don't need HACS or any custom cards.
 
-Show Image Show Image Show Image
+![Christmas tree](tree.png)
 
 Animated preview of the Holiday Countdown Card
 
